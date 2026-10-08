@@ -1,0 +1,16 @@
+{
+  "library": "C:/Users/benne/AppData/Local/Temp/claude/C--Users-benne-OneDrive-Desktop-random-game/e44947e9-3c2e-4001-9a70-24eec1cfa98f/scratchpad/assets/sfx/Prepared SFX Library",
+  "out": "../public/assets/audio/guns",
+  "sounds": {
+    "ar":      { "gun": "AR-15" },
+    "smg":     { "gun": "Carl Gustav", "near_len": 1.2 },
+    "shotgun": { "gun": "Nova", "near_len": 1.8 },
+    "sniper":  { "gun": "Tikka", "near_len": 2.4, "far_len": 3.2 },
+    "akm":     { "gun": "AK-47" },
+    "lmg":     { "gun": "Mosin", "near_len": 1.8 },
+    "dmr":     { "gun": "SKS", "near_len": 1.8 },
+    "pistol":  { "gun": "Walther PPQ", "near_len": 1.2 },
+    "mpistol": { "gun": "Bersa", "near_len": 1.1 },
+    "turret":  { "gun": "PPSh", "near_len": 1.0 }
+  }
+}

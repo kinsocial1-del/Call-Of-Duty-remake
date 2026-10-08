@@ -1,0 +1,164 @@
+{
+ "out": "models/props",
+ "props": {
+  "drum": {
+   "src": "source_assets/polyhaven/barrel_03/barrel_03_1k.gltf",
+   "tris": 1500
+  },
+  "crate_b": {
+   "src": "source_assets/polyhaven/wooden_crate_01/wooden_crate_01_1k.gltf",
+   "tris": 2000
+  },
+  "barrier": {
+   "src": "source_assets/polyhaven/concrete_road_barrier_02/concrete_road_barrier_02_1k.gltf",
+   "tris": 2500,
+   "tex": 1024
+  },
+  "mil_crate": {
+   "src": "source_assets/polyhaven/old_military_crate/old_military_crate_1k.gltf",
+   "tris": 2000
+  },
+  "car": {
+   "src": "source_assets/polyhaven/covered_car/covered_car_1k.gltf",
+   "tris": 5000,
+   "tex": 1024
+  },
+  "tyre": {
+   "src": "source_assets/polyhaven/old_tyre/old_tyre_1k.gltf",
+   "tris": 1200
+  },
+  "rim": {
+   "src": "source_assets/polyhaven/rusted_wheel_rim_01/rusted_wheel_rim_01_1k.gltf",
+   "tris": 1500
+  },
+  "street_lamp": {
+   "src": "source_assets/polyhaven/street_lamp_01/street_lamp_01_1k.gltf",
+   "tris": 3000
+  },
+  "aircon": {
+   "src": "source_assets/polyhaven/exterior_aircon_unit/exterior_aircon_unit_1k.gltf",
+   "tris": 2500,
+   "only": [
+    "exterior_aircon_unit"
+   ]
+  },
+  "aircon_rust": {
+   "src": "source_assets/polyhaven/exterior_aircon_unit/exterior_aircon_unit_1k.gltf",
+   "tris": 2500,
+   "only": [
+    "exterior_aircon_unit_rusted"
+   ]
+  },
+  "utility_box": {
+   "src": "source_assets/polyhaven/utility_box_02/utility_box_02_1k.gltf",
+   "tris": 1500
+  },
+  "sec_light": {
+   "src": "source_assets/polyhaven/security_light/security_light_1k.gltf",
+   "tris": 1200
+  },
+  "trash_can": {
+   "src": "source_assets/polyhaven/metal_trash_can/metal_trash_can_1k.gltf",
+   "tris": 2000,
+   "exclude": "rust"
+  },
+  "generator": {
+   "src": "source_assets/polyhaven/portable_generator/portable_generator_1k.gltf",
+   "tris": 3000
+  },
+  "propane": {
+   "src": "source_assets/polyhaven/propane_tank/propane_tank_1k.gltf",
+   "tris": 1200
+  },
+  "cardboard": {
+   "src": "source_assets/polyhaven/cardboard_box_01/cardboard_box_01_1k.gltf",
+   "tris": 800
+  },
+  "trashbag": {
+   "src": "source_assets/polyhaven/trashbag/trashbag_1k.gltf",
+   "tris": 1000
+  },
+  "cement": {
+   "src": "source_assets/polyhaven/cement_bag/cement_bag_1k.gltf",
+   "tris": 800
+  },
+  "plastic_crate": {
+   "src": "source_assets/polyhaven/plastic_crate_01/plastic_crate_01_1k.gltf",
+   "tris": 1200
+  },
+  "fluoro": {
+   "src": "source_assets/polyhaven/mounted_fluorescent_lights/mounted_fluorescent_lights_1k.gltf",
+   "tris": 600,
+   "only": [
+    "mounted_fluorescent_lights_a"
+   ]
+  },
+  "manhole": {
+   "src": "source_assets/polyhaven/water_manhole_cover/water_manhole_cover_1k.gltf",
+   "tris": 600
+  },
+  "hand_truck": {
+   "src": "source_assets/polyhaven/hand_truck/hand_truck_1k.gltf",
+   "tris": 2000
+  },
+  "shutter": {
+   "src": "source_assets/polyhaven/rollershutter_door/rollershutter_door_1k.gltf",
+   "tris": 1100,
+   "tex": 1024,
+   "only": [
+    "rollershutter_door"
+   ]
+  },
+  "shutter_g": {
+   "src": "source_assets/polyhaven/rollershutter_door/rollershutter_door_1k.gltf",
+   "tris": 1100,
+   "tex": 1024,
+   "only": [
+    "rollershutter_door_graffiti"
+   ]
+  },
+  "stove": {
+   "src": "source_assets/polyhaven/barrel_stove/barrel_stove_1k.gltf",
+   "tris": 2000
+  },
+  "pjerrycan": {
+   "src": "source_assets/polyhaven/plastic_jerrycan/plastic_jerrycan_1k.gltf",
+   "tris": 1200
+  },
+  "quiver_b": {
+   "src": "source_assets/polyhaven/quiver_tree_02/quiver_tree_02_1k.gltf",
+   "tris": 9000,
+   "tex": 1024
+  },
+  "dead_trunk": {
+   "src": "source_assets/polyhaven/dead_quiver_trunk/dead_quiver_trunk_1k.gltf",
+   "tris": 3000
+  },
+  "bush": {
+   "src": "source_assets/polyhaven/wild_rooibos_bush/wild_rooibos_bush_1k.gltf",
+   "tris": 4000,
+   "only": [
+    "wild_rooibos_bush_a"
+   ]
+  },
+  "boulder_a": {
+   "src": "source_assets/polyhaven/namaqualand_boulder_02/namaqualand_boulder_02_1k.gltf",
+   "tris": 2500,
+   "tex": 1024
+  },
+  "boulder_c": {
+   "src": "source_assets/polyhaven/namaqualand_boulder_05/namaqualand_boulder_05_1k.gltf",
+   "tris": 1500
+  },
+  "cliff_a": {
+   "src": "source_assets/polyhaven/namaqualand_cliff_01/namaqualand_cliff_01_1k.gltf",
+   "tris": 10000,
+   "tex": 2048
+  },
+  "cliff_b": {
+   "src": "source_assets/polyhaven/namaqualand_cliff_02/namaqualand_cliff_02_1k.gltf",
+   "tris": 16000,
+   "tex": 2048
+  }
+ }
+}

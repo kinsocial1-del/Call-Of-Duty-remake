@@ -1,0 +1,8 @@
+{
+ "forest": {
+  "env": "forest_env.hdr",
+  "bg": "forest_bg.jpg",
+  "bgScale": 2.25529,
+  "source": "kloofendal_48d_partly_cloudy_puresky"
+ }
+}

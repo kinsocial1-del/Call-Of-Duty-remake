@@ -1,0 +1,56 @@
+{
+ "barrel": {
+  "file": "barrel.glb",
+  "size": [
+   0.563,
+   0.88,
+   0.563
+  ],
+  "tris": 2000
+ },
+ "crate": {
+  "file": "crate.glb",
+  "size": [
+   0.529,
+   0.464,
+   1.165
+  ],
+  "tris": 2000
+ },
+ "ammo_box": {
+  "file": "ammo_box.glb",
+  "size": [
+   0.087,
+   0.177,
+   0.258
+  ],
+  "tris": 1499
+ },
+ "jerrycan": {
+  "file": "jerrycan.glb",
+  "size": [
+   0.36,
+   0.5,
+   0.172
+  ],
+  "tris": 1500
+ },
+ "mil_crate_b": {
+  "file": "mil_crate_b.glb",
+  "size": [
+   1.241,
+   0.464,
+   0.518
+  ],
+  "tris": 2500
+ },
+ "boulder_b": {
+  "file": "boulder_b.glb",
+  "size": [
+   2.521,
+   1.896,
+   2.495
+  ],
+  "tris": 2999
+ }
+}

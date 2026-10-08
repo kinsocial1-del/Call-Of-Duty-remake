@@ -1,0 +1,84 @@
+{
+ "out": "../public/assets/models/guns",
+ "merge": true,
+ "guns": [
+  {
+   "id": "orion",
+   "src": "source_assets/flat_guns/Rifle_Assault_West.glb",
+   "length": 0.9
+  },
+  {
+   "id": "sentinel",
+   "src": "source_assets/flat_guns/Rifle_Assault_West.glb",
+   "length": 1.0
+  },
+  {
+   "id": "krait",
+   "src": "source_assets/flat_guns/Rifle_Battle_East.glb",
+   "length": 1.05
+  },
+  {
+   "id": "hornet",
+   "src": "source_assets/flat_guns/SMG_Compact_West.glb",
+   "length": 0.62
+  },
+  {
+   "id": "jackal",
+   "src": "source_assets/flat_guns/SMG_Full_East.glb",
+   "length": 0.72
+  },
+  {
+   "id": "wasp",
+   "src": "source_assets/flat_guns/SMG_Compact_East.glb",
+   "length": 0.6
+  },
+  {
+   "id": "breaker",
+   "src": "source_assets/flat_guns/Shotgun_Auto_West.glb",
+   "length": 1.0
+  },
+  {
+   "id": "tempest",
+   "src": "source_assets/flat_guns/Shotgun_Auto_East.glb",
+   "length": 0.98
+  },
+  {
+   "id": "huntsman",
+   "src": "source_assets/flat_guns/Shotgun_Pump_East.glb",
+   "length": 1.04
+  },
+  {
+   "id": "warden",
+   "src": "source_assets/flat_guns/Sniper_Rifle_West.glb",
+   "length": 1.2
+  },
+  {
+   "id": "titan",
+   "src": "source_assets/flat_guns/Sniper_Material_West.glb",
+   "length": 1.42
+  },
+  {
+   "id": "reaper",
+   "src": "source_assets/flat_guns/Sniper_Material_East.glb",
+   "length": 1.48
+  },
+  {
+   "id": "vandal",
+   "src": "source_assets/flat_guns/Pistol_Compact_West.glb",
+   "length": 0.19,
+   "boreY": 0.04
+  },
+  {
+   "id": "komisar",
+   "src": "source_assets/flat_guns/Pistol_Full_East.glb",
+   "length": 0.21,
+   "boreY": 0.04
+  },
+  {
+   "id": "magistrate",
+   "src": "source_assets/flat_guns/Pistol_Full_West.glb",
+   "length": 0.23,
+   "boreY": 0.04
+  }
+ ]
+}

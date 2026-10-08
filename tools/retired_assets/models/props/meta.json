@@ -1,0 +1,299 @@
+{
+ "drum": {
+  "file": "drum.glb",
+  "size": [
+   0.634,
+   0.93,
+   0.639
+  ],
+  "tris": 1473
+ },
+ "crate_b": {
+  "file": "crate_b.glb",
+  "size": [
+   0.825,
+   0.348,
+   0.409
+  ],
+  "tris": 1999
+ },
+ "barrier": {
+  "file": "barrier.glb",
+  "size": [
+   1.564,
+   1.11,
+   0.44
+  ],
+  "tris": 2499
+ },
+ "mil_crate": {
+  "file": "mil_crate.glb",
+  "size": [
+   1.814,
+   0.301,
+   0.973
+  ],
+  "tris": 2000
+ },
+ "car": {
+  "file": "car.glb",
+  "size": [
+   1.796,
+   1.411,
+   4.372
+  ],
+  "tris": 5000
+ },
+ "tyre": {
+  "file": "tyre.glb",
+  "size": [
+   0.6,
+   0.604,
+   0.166
+  ],
+  "tris": 1200
+ },
+ "rim": {
+  "file": "rim.glb",
+  "size": [
+   0.403,
+   0.402,
+   0.156
+  ],
+  "tris": 1499
+ },
+ "street_lamp": {
+  "file": "street_lamp.glb",
+  "size": [
+   0.706,
+   3.87,
+   0.384
+  ],
+  "tris": 2693
+ },
+ "aircon": {
+  "file": "aircon.glb",
+  "size": [
+   0.8,
+   0.928,
+   0.375
+  ],
+  "tris": 2457
+ },
+ "aircon_rust": {
+  "file": "aircon_rust.glb",
+  "size": [
+   0.8,
+   0.928,
+   0.375
+  ],
+  "tris": 2456
+ },
+ "utility_box": {
+  "file": "utility_box.glb",
+  "size": [
+   0.918,
+   1.119,
+   0.43
+  ],
+  "tris": 1500
+ },
+ "sec_light": {
+  "file": "sec_light.glb",
+  "size": [
+   0.321,
+   0.531,
+   0.416
+  ],
+  "tris": 1102
+ },
+ "trash_can": {
+  "file": "trash_can.glb",
+  "size": [
+   0.779,
+   0.906,
+   0.556
+  ],
+  "tris": 1999
+ },
+ "generator": {
+  "file": "generator.glb",
+  "size": [
+   0.822,
+   0.577,
+   0.566
+  ],
+  "tris": 2952
+ },
+ "propane": {
+  "file": "propane.glb",
+  "size": [
+   0.34,
+   0.554,
+   0.337
+  ],
+  "tris": 1200
+ },
+ "cardboard": {
+  "file": "cardboard.glb",
+  "size": [
+   0.387,
+   0.34,
+   0.515
+  ],
+  "tris": 800
+ },
+ "trashbag": {
+  "file": "trashbag.glb",
+  "size": [
+   0.523,
+   0.575,
+   0.466
+  ],
+  "tris": 999
+ },
+ "cement": {
+  "file": "cement.glb",
+  "size": [
+   0.462,
+   0.18,
+   0.7
+  ],
+  "tris": 800
+ },
+ "plastic_crate": {
+  "file": "plastic_crate.glb",
+  "size": [
+   0.299,
+   0.264,
+   0.412
+  ],
+  "tris": 1200
+ },
+ "fluoro": {
+  "file": "fluoro.glb",
+  "size": [
+   0.912,
+   0.035,
+   0.04
+  ],
+  "tris": 599
+ },
+ "manhole": {
+  "file": "manhole.glb",
+  "size": [
+   0.746,
+   0.068,
+   0.746
+  ],
+  "tris": 600
+ },
+ "hand_truck": {
+  "file": "hand_truck.glb",
+  "size": [
+   0.593,
+   1.407,
+   0.693
+  ],
+  "tris": 2000
+ },
+ "shutter": {
+  "file": "shutter.glb",
+  "size": [
+   1.08,
+   2.4,
+   0.3
+  ],
+  "tris": 552
+ },
+ "shutter_g": {
+  "file": "shutter_g.glb",
+  "size": [
+   1.08,
+   2.4,
+   0.3
+  ],
+  "tris": 552
+ },
+ "stove": {
+  "file": "stove.glb",
+  "size": [
+   0.593,
+   0.857,
+   0.59
+  ],
+  "tris": 2000
+ },
+ "pjerrycan": {
+  "file": "pjerrycan.glb",
+  "size": [
+   0.268,
+   0.319,
+   0.34
+  ],
+  "tris": 1200
+ },
+ "quiver_b": {
+  "file": "quiver_b.glb",
+  "size": [
+   0.87,
+   1.467,
+   0.878
+  ],
+  "tris": 9000
+ },
+ "dead_trunk": {
+  "file": "dead_trunk.glb",
+  "size": [
+   0.307,
+   1.991,
+   0.267
+  ],
+  "tris": 3000
+ },
+ "bush": {
+  "file": "bush.glb",
+  "size": [
+   0.697,
+   0.539,
+   0.843
+  ],
+  "tris": 8987
+ },
+ "boulder_a": {
+  "file": "boulder_a.glb",
+  "size": [
+   2.517,
+   0.877,
+   1.235
+  ],
+  "tris": 2500
+ },
+ "boulder_c": {
+  "file": "boulder_c.glb",
+  "size": [
+   1.362,
+   0.526,
+   0.739
+  ],
+  "tris": 1792
+ },
+ "cliff_a": {
+  "file": "cliff_a.glb",
+  "size": [
+   8.279,
+   4.965,
+   4.39
+  ],
+  "tris": 10000
+ },
+ "cliff_b": {
+  "file": "cliff_b.glb",
+  "size": [
+   20.221,
+   7.189,
+   6.609
+  ],
+  "tris": 15998
+ }
+}

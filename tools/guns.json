@@ -1,0 +1,14 @@
+{
+  "out": "../public/assets/models/guns",
+  "guns": [
+    { "id": "vx4", "src": "source_assets/flat_guns/Rifle_Assault_West.glb", "length": 1.0 },
+    { "id": "kestrel", "src": "source_assets/flat_guns/SMG_Full_West.glb", "length": 0.78 },
+    { "id": "ranger", "src": "source_assets/flat_guns/Shotgun_Pump_West.glb", "length": 1.08 },
+    { "id": "longbow", "src": "source_assets/flat_guns/Sniper_Rifle_West.glb", "length": 1.36 },
+    { "id": "viper", "src": "source_assets/flat_guns/Rifle_Battle_East.glb", "length": 1.02 },
+    { "id": "brutus", "src": "source_assets/flat_guns/Rifle_Assault_East.glb", "length": 1.12 },
+    { "id": "arbiter", "src": "source_assets/flat_guns/Rifle_Battle_West.glb", "length": 1.2 },
+    { "id": "p17", "src": "source_assets/flat_guns/Pistol_Full_West.glb", "length": 0.26, "boreY": 0.04 },
+    { "id": "hellcat", "src": "source_assets/flat_guns/Pistol_Compact_East.glb", "length": 0.24, "boreY": 0.04 }
+  ]
+}

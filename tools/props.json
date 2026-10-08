@@ -1,0 +1,30 @@
+{
+ "out": "../public/assets/models/props",
+ "props": {
+  "barrel": {
+   "src": "source_assets/polyhaven/Barrel_01/Barrel_01_1k.gltf",
+   "tris": 2000
+  },
+  "crate": {
+   "src": "source_assets/polyhaven/wooden_crate_02/wooden_crate_02_1k.gltf",
+   "tris": 2000
+  },
+  "ammo_box": {
+   "src": "source_assets/polyhaven/ammo_box/ammo_box_1k.gltf",
+   "tris": 1500
+  },
+  "jerrycan": {
+   "src": "source_assets/polyhaven/metal_jerrycan_green/metal_jerrycan_green_1k.gltf",
+   "tris": 1500
+  },
+  "mil_crate_b": {
+   "src": "source_assets/polyhaven/wooden_military_crate/wooden_military_crate_1k.gltf",
+   "tris": 2500
+  },
+  "boulder_b": {
+   "src": "source_assets/polyhaven/namaqualand_boulder_04/namaqualand_boulder_04_1k.gltf",
+   "tris": 3000,
+   "tex": 1024
+  }
+ }
+}

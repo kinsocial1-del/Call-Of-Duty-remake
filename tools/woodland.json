@@ -1,0 +1,41 @@
+{
+  "out": "../public/assets/models/woodland",
+  "props": {
+    "forest_fir": {
+      "src": "C:\\Users\\benne\\OneDrive\\Desktop\\Call Of Duty remake\\tools\\source_assets\\woodland\\fir_tree_01\\fir_tree_01_selected.gltf",
+      "tris": 10000,
+      "tex": 512,
+      "only": [
+        "fir_tree_01_c_LOD0"
+      ],
+      "preserveAlpha": false
+    },
+    "forest_sapling": {
+      "src": "C:\\Users\\benne\\OneDrive\\Desktop\\Call Of Duty remake\\tools\\source_assets\\woodland\\fir_sapling\\fir_sapling_selected.gltf",
+      "tris": 4500,
+      "tex": 512,
+      "only": [
+        "fir_sapling_a"
+      ],
+      "preserveAlpha": true
+    },
+    "forest_fern": {
+      "src": "C:\\Users\\benne\\OneDrive\\Desktop\\Call Of Duty remake\\tools\\source_assets\\woodland\\fern_02\\fern_02_selected.gltf",
+      "tris": 1500,
+      "tex": 512,
+      "only": [
+        "fern_02_a"
+      ],
+      "preserveAlpha": true
+    },
+    "forest_log": {
+      "src": "C:\\Users\\benne\\OneDrive\\Desktop\\Call Of Duty remake\\tools\\source_assets\\woodland\\dead_tree_trunk\\dead_tree_trunk_selected.gltf",
+      "tris": 2500,
+      "tex": 512,
+      "only": [
+        "dead_tree_trunk"
+      ],
+      "preserveAlpha": true
+    }
+  }
+}

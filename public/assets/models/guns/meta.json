@@ -1,0 +1,1598 @@
+{
+ "vx4": {
+  "file": "vx4_pbr.glb",
+  "parts": [
+   "Magazine",
+   "Charging Handle",
+   "Body"
+  ],
+  "points": {
+   "Attach_Muzzle": [
+    0,
+    0.05,
+    -0.6149
+   ],
+   "Attach_Scope": [
+    0,
+    0.08296,
+    -0.00103
+   ],
+   "Attach_Rail.Bottom": [
+    0,
+    0.02495,
+    -0.28013
+   ],
+   "Trigger": [
+    0,
+    0,
+    0
+   ]
+  },
+  "min": [
+   -0.03371,
+   -0.12346,
+   -0.6149
+  ],
+  "max": [
+   0.03591,
+   0.12351,
+   0.3251
+  ],
+  "tops": {
+   "Body": 0.12351
+  },
+  "source": "https://opengameart.org/content/m4a1-assault-rifle",
+  "license": "CC0",
+  "opticRiser": 0.014
+ },
+ "kestrel": {
+  "file": "kestrel.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Bolt Release",
+   "Front Sights",
+   "Magazine",
+   "Magazine Release",
+   "Rear Sights",
+   "Selector",
+   "Stock",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    0,
+    -0.00255,
+    0
+   ],
+   "Attach_Scope": [
+    0,
+    0.07411,
+    -0.04622
+   ],
+   "Attach_Rail.Bottom": [
+    0,
+    0.02863,
+    -0.22005
+   ],
+   "Attach_Muzzle": [
+    0,
+    0.05,
+    -0.32682
+   ],
+   "Attach_Rail.Top": [
+    0,
+    0.07411,
+    -0.22005
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.01975,
+    0.05141,
+    -0.22005
+   ],
+   "Attach_Rail.SideRight": [
+    0.01986,
+    0.05141,
+    -0.22005
+   ]
+  },
+  "min": [
+   -0.0274,
+   -0.14008,
+   -0.37056
+  ],
+  "max": [
+   0.02751,
+   0.09004,
+   0.13606
+  ],
+  "tops": {
+   "Rear Sights": 0.12038,
+   "Front Sights": 0.11943,
+   "Body": 0.09004
+  },
+  "sightZ": {
+   "Rear Sights": 0.10975,
+   "Front Sights": -0.30744
+  }
+ },
+ "ranger": {
+  "file": "ranger.glb",
+  "parts": [
+   "Body",
+   "Lifter",
+   "Pump",
+   "Safety",
+   "Shell",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    0,
+    -0.03199,
+    0
+   ],
+   "Attach_Muzzle": [
+    0,
+    0.05,
+    -0.80283
+   ]
+  },
+  "min": [
+   -0.03288,
+   -0.13717,
+   -0.80283
+  ],
+  "max": [
+   0.03333,
+   0.09195,
+   0.27717
+  ],
+  "tops": {
+   "Body": 0.09195
+  }
+ },
+ "longbow": {
+  "file": "longbow_pbr.glb",
+  "parts": [
+   "Bolt",
+   "Body"
+  ],
+  "points": {
+   "Attach_Muzzle": [
+    0.0,
+    0.05,
+    -0.89968
+   ],
+   "Trigger": [
+    0,
+    0,
+    0
+   ],
+   "Attach_Rail.Bottom": [
+    0.0,
+    0.02244,
+    -0.32388
+   ]
+  },
+  "min": [
+   -0.02677,
+   -0.11218,
+   -0.89968
+  ],
+  "max": [
+   0.04085,
+   0.09549,
+   0.35032
+  ],
+  "tops": {
+   "Body": 0.09549,
+   "Rear Sights": 0.07345
+  },
+  "source": "https://polyhaven.com/a/bolt_action_rifle_7_62",
+  "license": "CC0"
+ },
+ "viper": {
+  "file": "viper_pbr.glb",
+  "parts": [
+   "Body",
+   "Magazine"
+  ],
+  "opticRiser": 0.008,
+  "points": {
+   "Attach_Muzzle": [
+    0.0,
+    0.05,
+    -0.61804
+   ],
+   "Attach_Scope": [
+    0.0,
+    0.09715,
+    -0.06
+   ],
+   "Attach_Rail.Bottom": [
+    0.0,
+    0.03975,
+    -0.3
+   ],
+   "Trigger": [
+    0,
+    0,
+    0
+   ]
+  },
+  "min": [
+   -0.01401,
+   -0.16743,
+   -0.61804
+  ],
+  "max": [
+   0.03991,
+   0.10574,
+   0.35196
+  ],
+  "tops": {
+   "Body": 0.10574
+  },
+  "source": "https://opengameart.org/content/akm",
+  "license": "CC0"
+ },
+ "brutus": {
+  "file": "brutus.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Magazine",
+   "Magazine Release",
+   "Selector",
+   "Stock",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    0,
+    0.02732,
+    0
+   ],
+   "Attach_Scope": [
+    0,
+    0.12113,
+    -0.1016
+   ],
+   "Attach_Rail.Bottom": [
+    0,
+    0.01923,
+    -0.36274
+   ],
+   "Attach_Muzzle": [
+    0,
+    0.05,
+    -0.56686
+   ],
+   "Attach_Rail.Top": [
+    0,
+    0.12113,
+    -0.36274
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.03122,
+    0.08972,
+    -0.40842
+   ],
+   "Attach_Rail.SideRight": [
+    0.03197,
+    0.08972,
+    -0.40842
+   ]
+  },
+  "min": [
+   -0.0405,
+   -0.15436,
+   -0.64645
+  ],
+  "max": [
+   0.04125,
+   0.15388,
+   0.14851
+  ],
+  "tops": {
+   "Body": 0.15388
+  }
+ },
+ "arbiter": {
+  "file": "arbiter.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Bolt Release",
+   "Charging Handle",
+   "Front Sights",
+   "Magazine",
+   "Magazine Release",
+   "Rear Sights",
+   "Selector",
+   "Stock",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    0,
+    -0.02551,
+    0
+   ],
+   "Attach_Scope": [
+    0,
+    0.10683,
+    -0.09151
+   ],
+   "Attach_Rail.Bottom": [
+    0,
+    0.01684,
+    -0.33135
+   ],
+   "Attach_Muzzle": [
+    0,
+    0.05,
+    -0.68916
+   ],
+   "Attach_Rail.Top": [
+    0,
+    0.10683,
+    -0.33135
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.02945,
+    0.05198,
+    -0.33135
+   ],
+   "Attach_Rail.SideRight": [
+    0.03022,
+    0.05198,
+    -0.33135
+   ]
+  },
+  "min": [
+   -0.03798,
+   -0.17817,
+   -0.751
+  ],
+  "max": [
+   0.039,
+   0.12782,
+   0.1565
+  ],
+  "tops": {
+   "Rear Sights": 0.17658,
+   "Front Sights": 0.17525,
+   "Body": 0.12782
+  },
+  "sightZ": {
+   "Rear Sights": 0.0647,
+   "Front Sights": -0.52452
+  }
+ },
+ "p17": {
+  "file": "p17_pbr.glb",
+  "parts": [
+   "Slide",
+   "Magazine",
+   "Body"
+  ],
+  "points": {
+   "Attach_Muzzle": [
+    0.0,
+    0.05,
+    -0.11677
+   ],
+   "Trigger": [
+    0,
+    0,
+    0
+   ]
+  },
+  "min": [
+   -0.01508,
+   -0.06116,
+   -0.11677
+  ],
+  "max": [
+   0.01575,
+   0.06429,
+   0.09823
+  ],
+  "tops": {
+   "Body": 0.06347,
+   "Slide": 0.06429,
+   "Rear Sights": 0.06829
+  },
+  "source": "https://polyhaven.com/a/service_pistol",
+  "license": "CC0"
+ },
+ "hellcat": {
+  "file": "hellcat.glb",
+  "parts": [
+   "Body",
+   "Hammer",
+   "Magazine",
+   "Magazine Release",
+   "Slide",
+   "Slide Release",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    0,
+    0.01272,
+    0
+   ],
+   "Attach_Scope": [
+    0,
+    0.04893,
+    0.07075
+   ],
+   "Attach_Rail.Bottom": [
+    0,
+    0.01522,
+    -0.06332
+   ],
+   "Attach_Muzzle": [
+    0,
+    0.04,
+    -0.12091
+   ]
+  },
+  "min": [
+   -0.02106,
+   -0.11154,
+   -0.13069
+  ],
+  "max": [
+   0.02105,
+   0.05183,
+   0.10931
+  ],
+  "tops": {
+   "Slide": 0.0582,
+   "Body": 0.05183
+  }
+ },
+ "striker": {
+  "file": "striker.glb",
+  "parts": [
+   "Body",
+   "Magazine"
+  ],
+  "points": {
+   "Trigger": [
+    0,
+    0.01019,
+    0
+   ],
+   "Attach_Muzzle": [
+    0,
+    0.05,
+    -0.19109
+   ],
+   "Attach_Rail.Bottom": [
+    0,
+    0.00019,
+    0.16196
+   ]
+  },
+  "min": [
+   -0.05259,
+   -0.10414,
+   -0.19109
+  ],
+  "max": [
+   0.05225,
+   0.11585,
+   0.73637
+  ],
+  "tops": {
+   "Body": 0.11585
+  }
+ },
+ "orion": {
+  "file": "orion.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Bolt Release",
+   "Charging Handle",
+   "Dust Cover",
+   "Forward Assist",
+   "Front Sights",
+   "Magazine",
+   "Magazine Release",
+   "Rear Sights",
+   "Selector",
+   "Stock",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    -0.0,
+    -0.00663,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.08243,
+    -0.06804
+   ],
+   "Attach_Rail.Bottom": [
+    -0.0,
+    0.02465,
+    -0.28574
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.05,
+    -0.47451
+   ],
+   "Attach_Rail.Top": [
+    -0.0,
+    0.08243,
+    -0.28574
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.02485,
+    0.05351,
+    -0.28574
+   ],
+   "Attach_Rail.SideRight": [
+    0.02486,
+    0.05351,
+    -0.28574
+   ]
+  },
+  "min": [
+   -0.03131,
+   -0.15103,
+   -0.51967
+  ],
+  "max": [
+   0.03208,
+   0.0994,
+   0.10866
+  ],
+  "tops": {
+   "Rear Sights": 0.12688,
+   "Front Sights": 0.12688,
+   "Body": 0.0994
+  },
+  "sightZ": {
+   "Rear Sights": 0.04636,
+   "Front Sights": -0.40214
+  }
+ },
+ "sentinel": {
+  "file": "sentinel.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Bolt Release",
+   "Charging Handle",
+   "Dust Cover",
+   "Forward Assist",
+   "Front Sights",
+   "Magazine",
+   "Magazine Release",
+   "Rear Sights",
+   "Selector",
+   "Stock",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    -0.0,
+    -0.01292,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.08603,
+    -0.0756
+   ],
+   "Attach_Rail.Bottom": [
+    -0.0,
+    0.02183,
+    -0.31749
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.05,
+    -0.52723
+   ],
+   "Attach_Rail.Top": [
+    -0.0,
+    0.08603,
+    -0.31749
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.02762,
+    0.0539,
+    -0.31749
+   ],
+   "Attach_Rail.SideRight": [
+    0.02762,
+    0.0539,
+    -0.31749
+   ]
+  },
+  "min": [
+   -0.03479,
+   -0.17337,
+   -0.57741
+  ],
+  "max": [
+   0.03564,
+   0.10489,
+   0.12073
+  ],
+  "tops": {
+   "Rear Sights": 0.13543,
+   "Front Sights": 0.13543,
+   "Body": 0.10489
+  },
+  "sightZ": {
+   "Rear Sights": 0.05152,
+   "Front Sights": -0.44682
+  }
+ },
+ "krait": {
+  "file": "krait.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Magazine",
+   "Magazine Release",
+   "Selector",
+   "Stock",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    -0.0,
+    -0.00266,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.10843,
+    -0.13146
+   ],
+   "Attach_Rail.Bottom": [
+    -0.0,
+    0.01169,
+    -0.36599
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.05,
+    -0.59717
+   ],
+   "Attach_Rail.Top": [
+    -0.0,
+    0.10843,
+    -0.36599
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.03595,
+    0.06006,
+    -0.39292
+   ],
+   "Attach_Rail.SideRight": [
+    0.03769,
+    0.06006,
+    -0.39292
+   ]
+  },
+  "min": [
+   -0.04429,
+   -0.16997,
+   -0.6462
+  ],
+  "max": [
+   0.04602,
+   0.13471,
+   0.14586
+  ],
+  "tops": {
+   "Body": 0.13471
+  }
+ },
+ "hornet": {
+  "file": "hornet.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Charging Handle",
+   "Magazine",
+   "Magazine Release",
+   "Selector",
+   "Stock",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    -0.0,
+    0.02259,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.07203,
+    0.0177
+   ],
+   "Attach_Rail.Bottom": [
+    -0.0,
+    0.01289,
+    -0.11434
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.05,
+    -0.18832
+   ],
+   "Attach_Rail.Top": [
+    -0.0,
+    0.07203,
+    -0.11434
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.02095,
+    0.04431,
+    -0.11434
+   ],
+   "Attach_Rail.SideRight": [
+    0.02117,
+    0.04431,
+    -0.11434
+   ]
+  },
+  "min": [
+   -0.02864,
+   -0.10454,
+   -0.21871
+  ],
+  "max": [
+   0.02887,
+   0.09097,
+   0.19837
+  ],
+  "tops": {
+   "Body": 0.09097
+  }
+ },
+ "jackal": {
+  "file": "jackal.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Magazine",
+   "Magazine Release",
+   "Selector",
+   "Stock",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    0.0,
+    0.01675,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.10162,
+    -0.06775
+   ],
+   "Attach_Rail.Bottom": [
+    -0.0,
+    0.02373,
+    -0.23548
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.05,
+    -0.33389
+   ],
+   "Attach_Rail.Top": [
+    -0.0,
+    0.10162,
+    -0.23548
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.02809,
+    0.05151,
+    -0.23548
+   ],
+   "Attach_Rail.SideRight": [
+    0.02809,
+    0.05151,
+    -0.23548
+   ]
+  },
+  "min": [
+   -0.03604,
+   -0.12634,
+   -0.37795
+  ],
+  "max": [
+   0.03603,
+   0.12944,
+   0.12048
+  ],
+  "tops": {
+   "Body": 0.12944
+  }
+ },
+ "wasp": {
+  "file": "wasp.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Magazine",
+   "Magazine Release",
+   "Selector",
+   "Stock",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    -0.0,
+    0.02297,
+    -0.0
+   ],
+   "Attach_Scope": [
+    0.0,
+    0.07499,
+    0.11321
+   ],
+   "Attach_Rail.Bottom": [
+    -0.0,
+    0.01905,
+    -0.08314
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.05,
+    -0.16203
+   ],
+   "Attach_Rail.Top": [
+    0.0,
+    0.07499,
+    -0.08314
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.02333,
+    0.05054,
+    -0.08314
+   ],
+   "Attach_Rail.SideRight": [
+    0.02241,
+    0.05054,
+    -0.08314
+   ]
+  },
+  "min": [
+   -0.03029,
+   -0.10414,
+   -0.17885
+  ],
+  "max": [
+   0.02937,
+   0.09622,
+   0.21136
+  ],
+  "tops": {
+   "Body": 0.09622
+  }
+ },
+ "breaker": {
+  "file": "breaker.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Charging Handle",
+   "Charging Handle End",
+   "Magazine",
+   "Magazine Release",
+   "Safety",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    -0.0,
+    -0.00674,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.12859,
+    -0.09772
+   ],
+   "Attach_Rail.Bottom": [
+    -0.0,
+    0.00918,
+    -0.35448
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.05,
+    -0.59796
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.02973,
+    0.06731,
+    -0.39688
+   ],
+   "Attach_Rail.SideRight": [
+    0.02848,
+    0.06731,
+    -0.39688
+   ]
+  },
+  "min": [
+   -0.03741,
+   -0.21124,
+   -0.62819
+  ],
+  "max": [
+   0.03615,
+   0.18226,
+   0.37181
+  ],
+  "tops": {
+   "Body": 0.18226
+  }
+ },
+ "tempest": {
+  "file": "tempest.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Magazine",
+   "Magazine Release",
+   "Selector",
+   "Stock",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    -0.0,
+    -0.00028,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.11925,
+    -0.10929
+   ],
+   "Attach_Rail.Bottom": [
+    -0.0,
+    0.01991,
+    -0.34088
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.05,
+    -0.56103
+   ],
+   "Attach_Rail.Top": [
+    -0.0,
+    0.11925,
+    -0.34088
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.02859,
+    0.05873,
+    -0.38703
+   ],
+   "Attach_Rail.SideRight": [
+    0.02781,
+    0.05873,
+    -0.38703
+   ]
+  },
+  "min": [
+   -0.03681,
+   -0.16328,
+   -0.56859
+  ],
+  "max": [
+   0.03604,
+   0.14126,
+   0.12994
+  ],
+  "tops": {
+   "Body": 0.14126
+  }
+ },
+ "huntsman": {
+  "file": "huntsman.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Lifter",
+   "Pump",
+   "Safety",
+   "Shell",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    0.0,
+    0.04552,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.116,
+    -0.12118
+   ],
+   "Attach_Rail.Top": [
+    -0.0,
+    0.09258,
+    -0.33281
+   ],
+   "Attach_Muzzle": [
+    0.0,
+    0.05,
+    -0.68855
+   ]
+  },
+  "min": [
+   -0.02101,
+   -0.07431,
+   -0.68855
+  ],
+  "max": [
+   0.02032,
+   0.13086,
+   0.35145
+  ],
+  "tops": {
+   "Body": 0.13086
+  }
+ },
+ "warden": {
+  "file": "warden.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Front Sights",
+   "Magazine",
+   "Magazine Release",
+   "Rear Sights",
+   "Safety",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    -0.0,
+    -0.01441,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.08618,
+    -0.13602
+   ],
+   "Attach_Rail.Bottom": [
+    -0.0,
+    0.01957,
+    -0.56719
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.05,
+    -0.77435
+   ],
+   "Attach_Rail.Top": [
+    -0.0,
+    0.08618,
+    -0.56719
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.03187,
+    0.05175,
+    -0.56719
+   ],
+   "Attach_Rail.SideRight": [
+    0.03134,
+    0.05175,
+    -0.56719
+   ]
+  },
+  "min": [
+   -0.03811,
+   -0.14321,
+   -0.83036
+  ],
+  "max": [
+   0.03758,
+   0.11099,
+   0.36964
+  ],
+  "tops": {
+   "Rear Sights": 0.15668,
+   "Front Sights": 0.15897,
+   "Body": 0.11099
+  },
+  "sightZ": {
+   "Rear Sights": 0.00126,
+   "Front Sights": -0.63082
+  }
+ },
+ "titan": {
+  "file": "titan.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Front Sights",
+   "Magazine",
+   "Magazine Release",
+   "Rear Sights",
+   "Safety",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    -0.0,
+    -0.02291,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.08895,
+    -0.1272
+   ],
+   "Attach_Rail.Bottom": [
+    -0.0,
+    0.00633,
+    -0.62465
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.05,
+    -0.90713
+   ],
+   "Attach_Rail.Top": [
+    -0.0,
+    0.08895,
+    -0.62465
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.04717,
+    0.04334,
+    -0.62465
+   ],
+   "Attach_Rail.SideRight": [
+    0.04517,
+    0.04334,
+    -0.62465
+   ]
+  },
+  "min": [
+   -0.05326,
+   -0.1524,
+   -1.0339
+  ],
+  "max": [
+   0.05126,
+   0.11333,
+   0.3861
+  ],
+  "tops": {
+   "Rear Sights": 0.15786,
+   "Front Sights": 0.1601,
+   "Body": 0.11333
+  },
+  "sightZ": {
+   "Rear Sights": 0.04593,
+   "Front Sights": -0.70327
+  }
+ },
+ "reaper": {
+  "file": "reaper.glb",
+  "parts": [
+   "Body",
+   "Bolt",
+   "Magazine",
+   "Magazine Release",
+   "Safety",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    0.0,
+    0.02643,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.09571,
+    0.10395
+   ],
+   "Attach_Rail.Bottom": [
+    -0.0,
+    0.00028,
+    -0.251
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.05,
+    -0.72911
+   ],
+   "Attach_Rail.Top": [
+    -0.0,
+    0.09571,
+    -0.23508
+   ],
+   "Attach_Rail.SideLeft": [
+    -0.02884,
+    0.03625,
+    -0.251
+   ],
+   "Attach_Rail.SideRight": [
+    0.02885,
+    0.03625,
+    -0.251
+   ]
+  },
+  "min": [
+   -0.05591,
+   -0.1257,
+   -0.83048
+  ],
+  "max": [
+   0.0561,
+   0.13994,
+   0.64952
+  ],
+  "tops": {
+   "Body": 0.13994
+  }
+ },
+ "vandal": {
+  "file": "vandal.glb",
+  "parts": [
+   "Barrel",
+   "Body",
+   "Magazine",
+   "Magazine Release",
+   "Slide",
+   "Slide Release",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    0.0,
+    0.01685,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.04791,
+    0.03691
+   ],
+   "Attach_Rail.Bottom": [
+    0.0,
+    0.01719,
+    -0.05396
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.04,
+    -0.0955
+   ]
+  },
+  "min": [
+   -0.01326,
+   -0.06759,
+   -0.09456
+  ],
+  "max": [
+   0.01326,
+   0.0501,
+   0.08568
+  ],
+  "tops": {
+   "Slide": 0.05701,
+   "Body": 0.0501
+  }
+ },
+ "komisar": {
+  "file": "komisar.glb",
+  "parts": [
+   "Body",
+   "Magazine",
+   "Magazine Release",
+   "Slide",
+   "Slide Release",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    0.0,
+    0.01999,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.04598,
+    0.0635
+   ],
+   "Attach_Rail.Bottom": [
+    -0.0,
+    0.0125,
+    -0.05396
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.04,
+    -0.10519
+   ]
+  },
+  "min": [
+   -0.0116,
+   -0.08424,
+   -0.11186
+  ],
+  "max": [
+   0.01122,
+   0.04816,
+   0.09405
+  ],
+  "tops": {
+   "Slide": 0.05465,
+   "Body": 0.04816
+  }
+ },
+ "magistrate": {
+  "file": "magistrate.glb",
+  "parts": [
+   "Body",
+   "Hammer",
+   "Magazine",
+   "Magazine Release",
+   "Slide",
+   "Slide Release",
+   "Trigger"
+  ],
+  "points": {
+   "Trigger": [
+    -0.0,
+    0.00773,
+    -0.0
+   ],
+   "Attach_Scope": [
+    -0.0,
+    0.04588,
+    0.02974
+   ],
+   "Attach_Rail.Bottom": [
+    0.0,
+    0.01253,
+    -0.07896
+   ],
+   "Attach_Muzzle": [
+    -0.0,
+    0.04,
+    -0.12883
+   ]
+  },
+  "min": [
+   -0.0146,
+   -0.09249,
+   -0.13669
+  ],
+  "max": [
+   0.0146,
+   0.04711,
+   0.08989
+  ],
+  "tops": {
+   "Slide": 0.05434,
+   "Body": 0.04711
+  }
+ },
+ "strelka": {
+  "file": "strelka_oga.glb",
+  "parts": [
+   "Magazine",
+   "Body"
+  ],
+  "points": {
+   "Attach_Muzzle": [
+    0.0,
+    0.05,
+    -0.51795
+   ],
+   "Trigger": [
+    0,
+    0,
+    0
+   ],
+   "Attach_Rail.Bottom": [
+    0.0,
+    0.03227,
+    -0.21754
+   ]
+  },
+  "min": [
+   -0.02242,
+   -0.16035,
+   -0.51795
+  ],
+  "max": [
+   0.04826,
+   0.10019,
+   0.36205
+  ],
+  "tops": {
+   "Body": 0.10019,
+   "Rear Sights": 0.10419
+  },
+  "source": "https://opengameart.org/content/high-poly-ak-47",
+  "license": "CC0"
+ },
+ "rpk": {
+  "file": "rpk_oga.glb",
+  "parts": [
+   "Magazine",
+   "Body"
+  ],
+  "points": {
+   "Attach_Muzzle": [
+    0.0,
+    0.05,
+    -0.61213
+   ],
+   "Trigger": [
+    0,
+    0,
+    0
+   ],
+   "Attach_Rail.Bottom": [
+    0.0,
+    0.02723,
+    -0.25709
+   ]
+  },
+  "min": [
+   -0.0265,
+   -0.1986,
+   -0.61213
+  ],
+  "max": [
+   0.05703,
+   0.10932,
+   0.42787
+  ],
+  "tops": {
+   "Body": 0.10932,
+   "Rear Sights": 0.11332
+  },
+  "source": "https://opengameart.org/content/high-poly-ak-47",
+  "license": "CC0"
+ },
+ "vigil": {
+  "file": "vigil_oga.glb",
+  "parts": [
+   "Body"
+  ],
+  "points": {
+   "Attach_Muzzle": [
+    0.0,
+    0.05,
+    -0.63692
+   ],
+   "Trigger": [
+    0,
+    0,
+    0
+   ],
+   "Attach_Rail.Bottom": [
+    0.0,
+    0.04663,
+    -0.28661
+   ]
+  },
+  "min": [
+   -0.02191,
+   -0.09385,
+   -0.63692
+  ],
+  "max": [
+   0.02198,
+   0.06611,
+   0.35308
+  ],
+  "tops": {
+   "Body": 0.06611,
+   "Rear Sights": 0.06705
+  },
+  "source": "https://opengameart.org/content/benelli-m1",
+  "license": "CC0"
+ },
+ "marshal": {
+  "file": "marshal_oga.glb",
+  "parts": [
+   "Magazine",
+   "Body"
+  ],
+  "points": {
+   "Attach_Muzzle": [
+    0.0,
+    0.05,
+    -0.48704
+   ],
+   "Trigger": [
+    0,
+    0,
+    0
+   ],
+   "Attach_Rail.Bottom": [
+    0.0,
+    0.03776,
+    -0.14611
+   ]
+  },
+  "min": [
+   -0.36565,
+   -0.0975,
+   -0.48704
+  ],
+  "max": [
+   0.04016,
+   0.08898,
+   0.27296
+  ],
+  "tops": {
+   "Body": 0.08898,
+   "Rear Sights": 0.09298
+  },
+  "source": "https://opengameart.org/content/sten-smg",
+  "license": "CC0"
+ },
+ "warhawk": {
+  "file": "warhawk_oga.glb",
+  "parts": [
+   "Magazine",
+   "Slide",
+   "Body"
+  ],
+  "points": {
+   "Attach_Muzzle": [
+    0.0,
+    0.05,
+    -0.16411
+   ],
+   "Trigger": [
+    0,
+    0,
+    0
+   ]
+  },
+  "min": [
+   -0.01768,
+   -0.09079,
+   -0.16411
+  ],
+  "max": [
+   0.01767,
+   0.06765,
+   0.10589
+  ],
+  "tops": {
+   "Body": 0.0672,
+   "Rear Sights": 0.0712,
+   "Slide": 0.06765
+  },
+  "source": "https://opengameart.org/content/desert-eagle-0",
+  "license": "CC0"
+ }
+}

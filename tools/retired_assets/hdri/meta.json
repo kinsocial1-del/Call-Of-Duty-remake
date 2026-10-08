@@ -1,0 +1,8 @@
+{
+ "desert": {
+  "env": "desert_env.hdr",
+  "bg": "desert_bg.jpg",
+  "bgScale": 0.44016,
+  "source": "qwantani_noon_puresky"
+ }
+}

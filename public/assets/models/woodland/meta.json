@@ -1,0 +1,29 @@
+{
+ "forest_sapling": {
+  "file": "forest_sapling.glb",
+  "size": [
+   0.862,
+   1.302,
+   0.823
+  ],
+  "tris": 4500
+ },
+ "forest_fern": {
+  "file": "forest_fern.glb",
+  "size": [
+   0.552,
+   0.287,
+   0.613
+  ],
+  "tris": 784
+ },
+ "forest_log": {
+  "file": "forest_log.glb",
+  "size": [
+   3.048,
+   0.288,
+   0.274
+  ],
+  "tris": 2499
+ }
+}

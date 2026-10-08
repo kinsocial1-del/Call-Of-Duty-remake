@@ -1,0 +1,6 @@
+node_modules/
+dist/
+release/
+node_modules/electron/dist/electron.exe
+release/win-unpacked/IRONFRONT Zero Hour.exe
+tools/source_assets/woodland/fir_tree_01/fir_tree_01.bin

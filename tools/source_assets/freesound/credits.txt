@@ -1,0 +1,11 @@
+explosion_a|people/unfa/sounds/609587|creativecommons.org/publicdomain/zero/1.0/ |Freesound - Grenade Explosion SFX (medium-sized, meaty, realistic) by unfa
+explosion_b|people/Kodack/sounds/258195|creativecommons.org/publicdomain/zero/1.0/ |Freesound - Deep Explosion by Kodack
+reload_rifle_a|people/Kodack/sounds/256912|creativecommons.org/publicdomain/zero/1.0/ |Freesound - Assault Rifle Reload by Kodack
+reload_rifle_b|people/Freeman213SG/sounds/326042|creativecommons.org/publicdomain/zero/1.0/ |Freesound - m4 rifle reload.wav by Freeman213SG
+reload_pistol|people/nioczkus/sounds/396331|creativecommons.org/publicdomain/zero/1.0/ |Freesound - 1911 Reload by nioczkus
+pump|people/Zott820/sounds/370344|creativecommons.org/publicdomain/zero/1.0/ |Freesound - Pump Action Shotgun Cycle by Zott820
+bolt|people/Zott820/sounds/370345|creativecommons.org/publicdomain/zero/1.0/ |Freesound - Mosin Nagant Bolt Action Cycle by Zott820
+flyby|people/qubodup/sounds/855248|creativecommons.org/publicdomain/zero/1.0/ |Freesound - Real Bullet Flyby Sound by qubodup
+jet|people/qubodup/sounds/189446|creativecommons.org/publicdomain/zero/1.0/ |Freesound - Jet Plane Flyby.flac by qubodup
+dryfire|people/brianhanson2nd/sounds/171211|creativecommons.org/publicdomain/zero/1.0/ |Freesound - Dry Fire by brianhanson2nd
+knife|people/neilsher/sounds/411743|creativecommons.org/publicdomain/zero/1.0/ |Freesound - Knife Stab.wav by neilsher

@@ -1,0 +1,73 @@
+{
+  "name": "ironfront-zero-hour",
+  "productName": "IRONFRONT Zero Hour",
+  "version": "1.0.0",
+  "description": "IRONFRONT: Zero Hour - modern military first-person shooter",
+  "main": "electron/main.cjs",
+  "type": "module",
+  "author": "IRONFRONT Team",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "game": "vite build && electron .",
+    "dist:win": "vite build && electron-builder --win",
+    "dist:portable": "vite build && electron-builder --win --dir -c.electronDist=node_modules/electron/dist -c.win.signAndEditExecutable=false",
+    "verify:release": "node tools/check-release.mjs",
+    "dist:linux": "vite build && electron-builder --linux",
+    "dist:mac": "vite build && electron-builder --mac",
+    "dist:steam": "vite build && electron-builder --win --linux --dir",
+    "test": "node --test tools/movement.test.mjs tools/assignments.test.mjs tools/platform.test.mjs tools/platform-services.test.mjs tools/airstrike.test.mjs"
+  },
+  "build": {
+    "appId": "com.ironfront.zerohour",
+    "productName": "IRONFRONT Zero Hour",
+    "directories": {
+      "output": "release",
+      "buildResources": "build"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*",
+      "package.json"
+    ],
+    "extraFiles": [
+      {
+        "from": "steam_appid.txt",
+        "to": "steam_appid.txt"
+      }
+    ],
+    "asarUnpack": [
+      "node_modules/steamworks.js/**/*"
+    ],
+    "win": {
+      "target": [
+        "nsis",
+        "dir"
+      ]
+    },
+    "linux": {
+      "target": [
+        "AppImage",
+        "dir"
+      ],
+      "category": "Game"
+    },
+    "mac": {
+      "target": [
+        "dmg"
+      ],
+      "category": "public.app-category.action-games"
+    }
+  },
+  "dependencies": {
+    "steamworks.js": "^0.4.0"
+  },
+  "devDependencies": {
+    "electron": "^44.6.0",
+    "electron-builder": "^26.15.3",
+    "vite": "^8.3.3",
+    "three": "^0.186.1"
+  }
+}

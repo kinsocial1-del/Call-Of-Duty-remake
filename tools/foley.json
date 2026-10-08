@@ -1,0 +1,29 @@
+{
+  "out": "../public/assets/audio/sfx",
+  "sources": { "fs": "source_assets/freesound/", "k": "source_assets/kenney_impact/" },
+  "sounds": {
+    "explosion":  [ { "src": "fs:explosion_a.mp3", "fade": 0.6 }, { "src": "fs:explosion_b.mp3", "fade": 0.5 } ],
+    "jet":        [ { "src": "fs:jet.mp3", "from": 0.5, "to": 11.0, "fade": 1.5 } ],
+    "flyby":      [ { "src": "fs:flyby.mp3", "fade": 0.01 } ],
+    "dryfire":    [ { "src": "fs:dryfire.mp3", "from": 1.2, "to": 1.6, "fade": 0.05 } ],
+    "knife":      [ { "src": "fs:knife.mp3", "from": 0.42, "to": 0.95, "fade": 0.1 } ],
+    "mag_out":    [ { "src": "fs:reload_rifle_a.mp3", "from": 0.5, "to": 1.12 }, { "src": "fs:reload_rifle_b.mp3", "from": 1.15, "to": 1.8 } ],
+    "mag_in":     [ { "src": "fs:reload_rifle_a.mp3", "from": 2.45, "to": 2.85 }, { "src": "fs:reload_rifle_b.mp3", "from": 3.0, "to": 3.6 } ],
+    "charge":     [ { "src": "fs:reload_rifle_a.mp3", "from": 2.9, "to": 3.49 }, { "src": "fs:reload_rifle_b.mp3", "from": 7.85, "to": 8.75 } ],
+    "pistol_in":  [ { "src": "fs:reload_pistol.mp3", "from": 0.0, "to": 0.28 } ],
+    "pistol_slide": [ { "src": "fs:reload_pistol.mp3", "from": 0.28, "to": 1.0 } ],
+    "pump":       [ { "src": "fs:pump.mp3", "from": 0.03, "to": 0.8 }, { "src": "fs:pump.mp3", "from": 1.45, "to": 2.2 } ],
+    "bolt":       [ { "src": "fs:bolt.mp3", "from": 0.05, "to": 1.4 }, { "src": "fs:bolt.mp3", "from": 1.78, "to": 3.1 } ],
+    "step_concrete": [ {"src":"k:footstep_concrete_000.ogg"}, {"src":"k:footstep_concrete_001.ogg"}, {"src":"k:footstep_concrete_002.ogg"}, {"src":"k:footstep_concrete_003.ogg"}, {"src":"k:footstep_concrete_004.ogg"} ],
+    "step_wood":  [ {"src":"k:footstep_wood_000.ogg"}, {"src":"k:footstep_wood_001.ogg"}, {"src":"k:footstep_wood_002.ogg"}, {"src":"k:footstep_wood_003.ogg"}, {"src":"k:footstep_wood_004.ogg"} ],
+    "step_sand":  [ {"src":"k:footstep_grass_000.ogg"}, {"src":"k:footstep_grass_001.ogg"}, {"src":"k:footstep_grass_002.ogg"}, {"src":"k:footstep_grass_003.ogg"}, {"src":"k:footstep_grass_004.ogg"} ],
+    "step_metal": [ {"src":"k:impactPlate_light_000.ogg"}, {"src":"k:impactPlate_light_001.ogg"}, {"src":"k:impactPlate_light_002.ogg"}, {"src":"k:impactPlate_light_003.ogg"} ],
+    "hit_concrete": [ {"src":"k:impactMining_000.ogg"}, {"src":"k:impactMining_001.ogg"}, {"src":"k:impactMining_002.ogg"}, {"src":"k:impactMining_003.ogg"}, {"src":"k:impactMining_004.ogg"} ],
+    "hit_metal":  [ {"src":"k:impactMetal_light_000.ogg"}, {"src":"k:impactMetal_light_001.ogg"}, {"src":"k:impactMetal_light_002.ogg"}, {"src":"k:impactMetal_medium_000.ogg"}, {"src":"k:impactMetal_medium_001.ogg"} ],
+    "hit_wood":   [ {"src":"k:impactWood_light_000.ogg"}, {"src":"k:impactWood_light_001.ogg"}, {"src":"k:impactWood_light_002.ogg"}, {"src":"k:impactWood_light_003.ogg"} ],
+    "hit_flesh":  [ {"src":"k:impactPunch_medium_000.ogg"}, {"src":"k:impactPunch_medium_001.ogg"}, {"src":"k:impactPunch_medium_002.ogg"}, {"src":"k:impactPunch_medium_003.ogg"} ],
+    "melee_hit":  [ {"src":"k:impactPunch_heavy_000.ogg"}, {"src":"k:impactPunch_heavy_001.ogg"}, {"src":"k:impactPunch_heavy_002.ogg"} ],
+    "bounce":     [ {"src":"k:impactMetal_light_003.ogg"}, {"src":"k:impactMetal_light_004.ogg"}, {"src":"k:impactTin_medium_000.ogg"} ],
+    "shell":      [ {"src":"k:impactTin_medium_001.ogg"}, {"src":"k:impactTin_medium_002.ogg"} ]
+  }
+}

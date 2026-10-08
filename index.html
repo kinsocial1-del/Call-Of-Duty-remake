@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>IRONFRONT: Zero Hour</title>
+</head>
+<body>
+  <div id="app">
+    <div id="hud" class="hidden">
+      <div id="compass"><div id="compass-strip"></div><div id="compass-needle"></div></div>
+      <div id="scorebar"></div>
+      <div id="killfeed"></div>
+      <div id="crosshair"><i class="ch ch-t"></i><i class="ch ch-b"></i><i class="ch ch-l"></i><i class="ch ch-r"></i><i class="ch-dot"></i></div>
+      <div id="hitmarker"><i></i><i></i><i></i><i></i></div>
+      <div id="dmg-indicators"></div>
+      <div id="vignette"></div>
+      <div id="flash-overlay"></div>
+      <div id="scope-overlay"><div class="scope-ring"></div><div class="scope-h"></div><div class="scope-v"></div></div>
+      <div id="minimap-wrap"><canvas id="minimap" width="440" height="440"></canvas><div id="minimap-label"></div></div>
+      <div id="weapon-info">
+        <div class="weapon-meta"><span id="wi-class"></span><span id="wi-action">READY</span></div>
+        <div id="wi-name"></div>
+        <div id="wi-ammo"><span id="wi-mag"></span><span id="wi-res"></span></div>
+        <div class="ammo-track"><div id="ammo-fill"></div></div>
+        <div id="action-track" class="action-track" hidden><div id="action-fill"></div></div>
+        <div id="wi-row"><span id="wi-mode"></span><span id="wi-nades"></span></div>
+        <div id="weapon-slots"></div>
+      </div>
+      <div id="actor-healthbars"></div>
+      <div id="player-health" role="progressbar" aria-label="Player health" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100"><div class="operator-label"><i class="operator-dot"></i><span id="operator-name">OPERATOR</span><span id="health-status">STABLE</span></div><div class="health-label"><span>HEALTH</span><span class="health-value">100 / 100</span></div><div class="health-track"><div class="health-fill"></div></div><div id="armor-row" hidden><div class="health-label"><span>ARMOR</span><span id="armor-value">0</span></div><div class="health-track"><div id="armor-fill"></div></div></div></div>
+      <div id="tac-panel"><div class="tac-header"><span>TACTICAL SPRINT</span><span id="tac-status">READY</span></div><div class="tac-track"><div id="tac-fill"></div></div></div>
+      <div id="elimination"><span class="elim-confirm">✓</span><span id="elim-label">ELIMINATED</span><span id="elim-name"></span><span id="elim-chain"></span></div>
+      <div id="streaks"></div>
+      <div id="xp-pops"></div>
+      <div id="medals"></div>
+      <div id="center-msg"></div>
+      <div id="prompt"></div>
+      <div id="cash"><span id="cash-value">$0</span><span id="cash-delta"></span></div>
+      <div id="buy-menu" class="hidden"></div>
+      <div id="objective"></div>
+      <div id="death-screen" class="hidden"></div>
+      <div id="scoreboard" class="hidden"></div>
+      <div id="toasts"></div>
+      <div id="fps"></div>
+      <div id="killcam"></div>
+    </div>
+    <div id="menu-root"></div>
+    <div id="loading">
+      <div class="load-logo">IRONFRONT</div>
+      <div class="load-sub">ZERO HOUR</div>
+      <div class="load-bar"><div id="load-fill"></div></div>
+      <div id="load-text" role="status" aria-live="polite">INITIALIZING</div>
+      <button id="load-retry" type="button" hidden>RETRY STARTUP</button>
+    </div>
+  </div>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

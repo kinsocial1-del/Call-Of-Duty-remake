@@ -1,0 +1,262 @@
+{
+ "ar": [
+  {
+   "file": "ar_0.ogg",
+   "far": false,
+   "len": 0.82
+  },
+  {
+   "file": "ar_1.ogg",
+   "far": false,
+   "len": 0.82
+  },
+  {
+   "file": "ar_far_0.ogg",
+   "far": true,
+   "len": 2.01
+  },
+  {
+   "file": "ar_far_1.ogg",
+   "far": true,
+   "len": 2.01
+  }
+ ],
+ "smg": [
+  {
+   "file": "smg_0.ogg",
+   "far": false,
+   "len": 0.63
+  },
+  {
+   "file": "smg_1.ogg",
+   "far": false,
+   "len": 0.63
+  },
+  {
+   "file": "smg_2.ogg",
+   "far": false,
+   "len": 0.63
+  },
+  {
+   "file": "smg_far_0.ogg",
+   "far": true,
+   "len": 1.65
+  },
+  {
+   "file": "smg_far_1.ogg",
+   "far": true,
+   "len": 1.61
+  },
+  {
+   "file": "smg_far_2.ogg",
+   "far": true,
+   "len": 1.61
+  }
+ ],
+ "shotgun": [
+  {
+   "file": "shotgun_0.ogg",
+   "far": false,
+   "len": 0.82
+  },
+  {
+   "file": "shotgun_1.ogg",
+   "far": false,
+   "len": 0.82
+  },
+  {
+   "file": "shotgun_far_0.ogg",
+   "far": true,
+   "len": 2.02
+  },
+  {
+   "file": "shotgun_far_1.ogg",
+   "far": true,
+   "len": 2.14
+  }
+ ],
+ "sniper": [
+  {
+   "file": "sniper_0.ogg",
+   "far": false,
+   "len": 1.03
+  },
+  {
+   "file": "sniper_1.ogg",
+   "far": false,
+   "len": 1.04
+  },
+  {
+   "file": "sniper_far_0.ogg",
+   "far": true,
+   "len": 3.09
+  }
+ ],
+ "akm": [
+  {
+   "file": "akm_0.ogg",
+   "far": false,
+   "len": 0.63
+  },
+  {
+   "file": "akm_1.ogg",
+   "far": false,
+   "len": 0.65
+  },
+  {
+   "file": "akm_2.ogg",
+   "far": false,
+   "len": 0.78
+  },
+  {
+   "file": "akm_far_0.ogg",
+   "far": true,
+   "len": 2.04
+  }
+ ],
+ "lmg": [
+  {
+   "file": "lmg_0.ogg",
+   "far": false,
+   "len": 0.45
+  },
+  {
+   "file": "lmg_1.ogg",
+   "far": false,
+   "len": 0.45
+  },
+  {
+   "file": "lmg_2.ogg",
+   "far": false,
+   "len": 0.45
+  },
+  {
+   "file": "lmg_far_0.ogg",
+   "far": true,
+   "len": 1.89
+  },
+  {
+   "file": "lmg_far_1.ogg",
+   "far": true,
+   "len": 1.81
+  },
+  {
+   "file": "lmg_far_2.ogg",
+   "far": true,
+   "len": 1.8
+  }
+ ],
+ "dmr": [
+  {
+   "file": "dmr_0.ogg",
+   "far": false,
+   "len": 0.62
+  },
+  {
+   "file": "dmr_1.ogg",
+   "far": false,
+   "len": 0.63
+  },
+  {
+   "file": "dmr_2.ogg",
+   "far": false,
+   "len": 0.63
+  },
+  {
+   "file": "dmr_far_0.ogg",
+   "far": true,
+   "len": 1.8
+  },
+  {
+   "file": "dmr_far_1.ogg",
+   "far": true,
+   "len": 2.09
+  },
+  {
+   "file": "dmr_far_2.ogg",
+   "far": true,
+   "len": 1.79
+  }
+ ],
+ "pistol": [
+  {
+   "file": "pistol_0.ogg",
+   "far": false,
+   "len": 0.49
+  },
+  {
+   "file": "pistol_1.ogg",
+   "far": false,
+   "len": 0.55
+  },
+  {
+   "file": "pistol_2.ogg",
+   "far": false,
+   "len": 0.55
+  },
+  {
+   "file": "pistol_far_0.ogg",
+   "far": true,
+   "len": 1.48
+  },
+  {
+   "file": "pistol_far_1.ogg",
+   "far": true,
+   "len": 1.42
+  }
+ ],
+ "mpistol": [
+  {
+   "file": "mpistol_0.ogg",
+   "far": false,
+   "len": 0.93
+  },
+  {
+   "file": "mpistol_1.ogg",
+   "far": false,
+   "len": 0.96
+  },
+  {
+   "file": "mpistol_far_0.ogg",
+   "far": true,
+   "len": 2.38
+  },
+  {
+   "file": "mpistol_far_1.ogg",
+   "far": true,
+   "len": 2.38
+  }
+ ],
+ "turret": [
+  {
+   "file": "turret_0.ogg",
+   "far": false,
+   "len": 0.64
+  },
+  {
+   "file": "turret_1.ogg",
+   "far": false,
+   "len": 0.64
+  },
+  {
+   "file": "turret_2.ogg",
+   "far": false,
+   "len": 0.64
+  },
+  {
+   "file": "turret_far_0.ogg",
+   "far": true,
+   "len": 2.21
+  },
+  {
+   "file": "turret_far_1.ogg",
+   "far": true,
+   "len": 1.79
+  },
+  {
+   "file": "turret_far_2.ogg",
+   "far": true,
+   "len": 1.84
+  }
+ ]
+}

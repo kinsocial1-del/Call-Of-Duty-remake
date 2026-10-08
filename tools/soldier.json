@@ -1,0 +1,32 @@
+{
+  "out": "../public/assets/models/soldier",
+  "body": "source_assets/ubc/Superhero_Male_FullBody.gltf",
+  "anims": "source_assets/ual/AnimationLibrary_Godot_Standard.glb",
+  "cloth": "source_assets/ambientcg/Fabric036_1K-JPG_Color.jpg",
+  "camo": {
+    "woodland": [
+      "#6b6a49",
+      "#4a4430",
+      "#2c2e24",
+      "#8a8462"
+    ],
+    "urban": [
+      "#45484c",
+      "#2b2d30",
+      "#5c5f63",
+      "#1d1e20"
+    ]
+  },
+  "clips": [
+    "Idle_Loop",
+    "Walk_Loop",
+    "Jog_Fwd_Loop",
+    "Sprint_Loop",
+    "Crouch_Idle_Loop",
+    "Crouch_Fwd_Loop",
+    "Death01",
+    "Hit_Chest",
+    "Jump_Loop",
+    "Pistol_Idle_Loop"
+  ]
+}
